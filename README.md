@@ -1,2 +1,1 @@
 # sechocai.github.io
-portrait
